@@ -11,9 +11,9 @@ var randomNumber = Math.floor( Math.random() * numbers.length );
 
 
 function determineResult(result){
-	if( typeof result !== 'undefined'){
-		console.log(`Search Result Found => ${result}`);
-	}else if( typeof result === 'number'){
+	if( typeof result == 'undefined'){
 		console.log(`Search Result Not Found => ${result}`);
+	}else {
+		console.log(`Search Result Found => ${result}`);
 	}
 }
