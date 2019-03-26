@@ -1,8 +1,8 @@
-# intro-to-algorithms
+# Algorithms မိတ်ဆက်
 
 Start learning alogrithms, use Javascript and PHP as code example.
 
-# Searching
+# Guessing Game
 
 Linear Search
 [example code here](https://github.com/linhtetpaing9/intro-to-algorithms/edit/master/a-guessing-game/linear-search/index.js)
