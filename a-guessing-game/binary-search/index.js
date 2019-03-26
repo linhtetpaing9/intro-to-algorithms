@@ -1,6 +1,6 @@
 var numbers = Array.from( { length: 300 } , ( index, value ) => value + 1 );
  
-var randomNumber = 300;
+var query = 300;
 
 (function search(query, numbers){
 	let firstIndex = 0;
@@ -25,7 +25,7 @@ var randomNumber = 300;
 	else{
 		console.log('Search Query is not exist in Array');
 	}
-}(randomNumber , numbers));
+}(query , numbers));
 
 function considerMiddleIndex(numbers){
 	if( numbers.length % 2 == 0 ){
