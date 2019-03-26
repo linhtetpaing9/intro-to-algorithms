@@ -1,4 +1,4 @@
-# Algorithms မိတ္ဆက္
+# Algorithms မိတ်ဆက်
 
 Start learning alogrithms, use Javascript and PHP as code example.
 
