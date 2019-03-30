@@ -13,8 +13,17 @@ Algorithms ကိုစတင် လေ့လာခြင်း  ၊ code exampl
 Binary Search သုံးမယ်ဆိုရင်တော့ အနည်းဆုံး ၁ ကြိမ်က နေ ၁၀ ကြိမ်ထပ်မပိုပါဘူး။
 အောက်မှာ အစမ်းရေးကြည့်ထားပါတယ် နားလည်သလို ရေးထားတာဖြစ်တဲ့အတွက် အမှားပါနိုင်ပါတယ်။
 
-# Linear Search
-[example code here](https://github.com/linhtetpaing9/intro-to-algorithms/edit/master/a-guessing-game/linear-search/index.js)
+ # Linear Search
+ [example code here](https://github.com/linhtetpaing9/intro-to-algorithms/edit/master/a-guessing-game/linear-search/index.js)
 
-# Binary Search
-[example code here](https://github.com/linhtetpaing9/intro-to-algorithms/blob/master/a-guessing-game/binary-search/index.js)
+ # Binary Search
+ [example code here](https://github.com/linhtetpaing9/intro-to-algorithms/blob/master/a-guessing-game/binary-search/index.js)
+
+
+# Asymptotic Notation
+
+ #Big-O
+ 
+ #Big-Omega
+ 
+ #Big-Theta
